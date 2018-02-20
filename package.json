@@ -1,0 +1,10 @@
+{
+  "name": "guard-js",
+  "version": "1.0.0",
+  "description": "A not null/undefined precondition checker",
+  "main": "index.js",
+  "author": "David Olubajo",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": "https://github.com/kooldave98/guard-js"
+}
